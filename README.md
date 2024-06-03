@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Jodex
 
-👀 I’m interested in Programming. Besides, I have a shop, where you can buy plugins and other things ![there](https://discord.gg/HqrFYWcE)
+👀 I’m interested in Programming. Besides, I have a shop, where you can buy plugins and other things ![there]([](https://discord.gg/HqrFYWcE))
 
 🌱 I’m currently learning Java and C#
 
