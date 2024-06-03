@@ -8,7 +8,7 @@
 
 
 
-### hey there 👋
+### Hey there 👋
 
 ![C#](https://img.shields.io/badge/-Python-000?&logo=Python](https://img.shields.io/badge/c%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
