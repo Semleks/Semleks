@@ -2,7 +2,7 @@
 
 👋 Hi
 
-👀 I’m interested in Programming. Besides, I have a shop, where you can buy plugins and other things [there](https://discord.gg/PkQaHVXxbF)
+👀 I’m interested in Programming.
 
 🌱 I’m currently learning Java and C#
 
