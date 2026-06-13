@@ -10,7 +10,7 @@
 
 I contribute to open-source software, focusing on performance, memory safety, and system-level reliability.
 
-* **[adepierre/Botcraft](https://github.com/adepierre/Botcraft)** (600+ ⭐ C++ library for Minecraft bots)
+* **[adepierre/Botcraft](https://github.com/adepierre/Botcraft)** ( C++ library for Minecraft bots) [![Botcraft Stars](https://img.shields.io/github/stars/adepierre/Botcraft?color=gold&style=flat-square&logo=github)](https://github.com/adepierre/Botcraft)
   * **Contribution ([#355](https://github.com/adepierre/Botcraft/pull/355)):** Resolved an OpenSSL cipher context memory leak in `AESEncrypter::Init` during reconnection flows. Properly managed and released dynamic context resources (`EVP_CIPHER_CTX_new` / `EVP_CIPHER_CTX_free`) to prevent progressive memory degradation in long-running bot instances.
 
 ---
