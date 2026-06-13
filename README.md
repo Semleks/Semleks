@@ -2,7 +2,18 @@
 <h1 align="center">Hi 👋, I'm Semleks</h1>
 <h3 align="center">A developer from Russia</h3>
 
-- 🌱 I’m currently learning **C#, Java, JS, Python**
+- 🌱 I’m currently learning **С++, C#, Java, JS, Python**
+
+---
+
+## 🚀 Open Source Contributions
+
+I contribute to open-source software, focusing on performance, memory safety, and system-level reliability.
+
+* **[adepierre/Botcraft](https://github.com/adepierre/Botcraft)** (600+ ⭐ C++ library for Minecraft bots)
+  * **Contribution ([#355](https://github.com/adepierre/Botcraft/pull/355)):** Resolved an OpenSSL cipher context memory leak in `AESEncrypter::Init` during reconnection flows. Properly managed and released dynamic context resources (`EVP_CIPHER_CTX_new` / `EVP_CIPHER_CTX_free`) to prevent progressive memory degradation in long-running bot instances.
+
+---
 
 <p align="left">
 </p>
