@@ -16,6 +16,7 @@ I contribute to open-source software, focusing on performance, memory safety, an
 
   * **Contribution ([#355](https://github.com/adepierre/Botcraft/pull/355)):** Resolved an OpenSSL cipher context memory leak in `AESEncrypter::Init` during reconnection flows. Properly managed and released dynamic context resources (`EVP_CIPHER_CTX_new` / `EVP_CIPHER_CTX_free`) to prevent progressive memory degradation in long-running bot instances.
   * **Contribution ([#358](https://github.com/adepierre/Botcraft/pull/358)):** Implemented vanilla-aligned physics for powder snow (loose snow) in `PhysicsManager`. Added dynamic leather boots item ID resolution via `AssetsManager` and enabled vertical climbing when jumping inside powder snow while optimizing overall tick execution times with lazy inventory evaluation.
+  * **Contribution ([#359](https://github.com/adepierre/Botcraft/pull/359)):** The bot can now climb up through a trapdoor/hatch if it is open and aligned with the ladder underneath (same facing property).
 ---
 
 <p align="left">
