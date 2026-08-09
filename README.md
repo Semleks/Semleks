@@ -32,12 +32,8 @@ I contribute to open-source software, focusing on performance, memory safety, an
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Statistics & Languages
-
 <div align="center">
-  <!-- Круговая диаграмма языков (Donut Chart) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semleks&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Semleks&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
   
-  <!-- Общая статистика GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Semleks&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Semleks Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Semleks&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Semleks Stats" />
 </div>
