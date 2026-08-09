@@ -33,7 +33,7 @@ I contribute to open-source software, focusing on performance, memory safety, an
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Semleks&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Semleks&layout=donut&theme=dark&hide_border=true&count_private=true&exclude_repo=NextGallery&v=2" alt="Top Languages" />
   
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Semleks&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Semleks Stats" />
 </div>
